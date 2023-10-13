@@ -7,10 +7,4 @@ Solution <br><br>
 Here are all the completed and successful Code for Codetantra JAVA Programming Course
 <br>
 
-Fork and Give A Star to repository.
-<br>
-<br>
-Keep Checking For further updates.
-<br>
-<br>
 ## Happy Coding!!
